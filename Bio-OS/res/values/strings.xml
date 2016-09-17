@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="app_name">Bio-OS</string>
+    <string name="action_about">About</string>
+
+    <!-- Main Activity -->
+    <string name="DefaultValue">0</string>
+    <string name="HeartRateLabel">Heart Rate:</string>
+    <string name="HeartRateUnit">bpm</string>
+    <string name="TemperatureLabel">Temperature:</string>
+    <string name="TemperatureUnit">ºC</string>
+    <string name="BreathingRateLabel">Breathing Rate:</string>
+    <string name="BreathingRateUnit"></string>
+    <string name="LatLongLabel">Latitude/Longitude:</string>
+    <string name="LatLongUnit"></string>
+
+    <!-- About Activity -->
+    <string name="title_activity_about">About</string>
+    <string name="StatusLabel">Status:</string>
+
+</resources>
